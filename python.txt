@@ -1,0 +1,14 @@
+https://repl.it/languages/python
+
+http://infoheap.com/python-lint-online/
+
+
+https://www.soulflower.biz/s-90-wrinkles-and-finelines.aspx
+
+
+https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c
+
+
+https://www.tutorialspoint.com/python/python_dictionary.htm
+
+http://boto3.readthedocs.io/en/latest/reference/services/dms.html
